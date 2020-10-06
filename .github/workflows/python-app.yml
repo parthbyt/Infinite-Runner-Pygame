@@ -25,6 +25,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install pygame
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Test with pytest
+    - name: Test main.py
       run: |
         python main.py
