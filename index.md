@@ -1,6 +1,6 @@
 [Download windows 64-bit executable](https://github.com/parthbyt/Simple-Infinite-Runner-Pygame/releases/download/v0.1/Simple.Infinite.Runner.Pygame.zip)
 
-# Simple-Infinite-Runner-Pygame
+# Infinite-Runner-Pygame
 A very simple infinite runner game written in pygame.
 
 ## Requirements
